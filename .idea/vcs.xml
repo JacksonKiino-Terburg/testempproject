@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/Catch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/Empirical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/Empirical/third-party/Catch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/Empirical/third-party/cereal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/Empirical/third-party/force-cover" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/Empirical/third-party/robin-hood-hashing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/emsdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/force-cover" vcs="Git" />
+  </component>
+</project>
